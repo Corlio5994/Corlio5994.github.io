@@ -21,8 +21,7 @@
 title: Under the World Tree
 email: corey1057105@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a site where I blog about things I'm learning, and other cool 
-  things!
+  Personal blog of Corey Lionis, chaos entity.
 baseurl: "Corlio5994.github.io" # the subpath of your site, e.g. /blog
 url: "https://Corlio5994.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
